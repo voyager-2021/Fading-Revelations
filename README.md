@@ -1,7 +1,7 @@
 
 <div align = center>
     
-# This mod is no longer in development and will NOT receive updates!
+# This mod is in development and will receive updates infrequent updates!
 
 <br>
 
