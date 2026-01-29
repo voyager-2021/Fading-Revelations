@@ -71,5 +71,5 @@ defaultCore: core-shard
 parent: sun
 solarSystem: sun
 launchCandidates: []
-hiddenItems: ["beryllium", "carbide", "tungsten", "fissile-matter", "oxide"]
+# This no longer exists in V8: hiddenItems: ["beryllium", "carbide", "tungsten", "fissile-matter", "oxide"]
 allowLaunchToNumbered: false
