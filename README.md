@@ -1,7 +1,7 @@
 
 <div align = center>
     
-# This mod is in development and will receive updates infrequent updates!
+# This mod is a fork of the Fading Revelations mod! All credit goes to the original Author and Contributor's. See the LICENSE. The fork is in development and is not guaranteed to recive frequent updates.
 
 <br>
 
@@ -81,11 +81,14 @@ A huge content extension mod!
 
 -   Sound Effects mostly from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=5981">Pixabay</a>
 
+**All credit goes to the mod's original Author(s).**
+
 <br>
 
-<div align = center>
+## Contact me
+*Email:* `voyager-2019@outlook.com`
 
-Note: Previews are being re-done right now!
+<div align = center>
 
 <!----------------------------------------------------------------------------->
 
